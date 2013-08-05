@@ -200,6 +200,6 @@ intent.setPackage("com.kakao.talk");
 開発者向けカカオトークBIダウンロード
 ---------------------------------
 
-### [Kakaotalk_BI.zip](http://www.kakao.com/link/images/v2/link/kakaotalk_icon.zip)
+### [Kakaotalk_BI.zip](http://www.kakao.com/images/v2/link/kakaotalk_icon.zip)
 
 *B.Iはカカオリンクを使用してカカオトークにメッセージを送信する機能を説明するためのボタン/またはそれに該当するページに限って使用することができ、他のページやメニューなどで上記イメージをそのまま、または一部を変更して使用することを禁じております。 
