@@ -200,6 +200,6 @@ intent.setPackage("com.kakao.talk");
 KakaoTalk B.I download for Developers
 -------------------------------------
 
-### [Kakaotalk_BI.zip](http://www.kakao.com/link/images/v2/link/kakaotalk_icon.zip)
+### [Kakaotalk_BI.zip](http://www.kakao.com/images/v2/link/kakaotalk_icon.zip)
 
 *B.I must only be used on buttons/pages that refers to the function that sends messages via KakaoTalk using KakaoLink. The whole BI, or portions of the BI, must not be used in pages or menus other than those defined above, since it may mislead users into believing that the app was developed by Kakao.

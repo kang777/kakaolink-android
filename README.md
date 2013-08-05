@@ -198,6 +198,6 @@ intent.setPackage("com.kakao.talk");
 개발자용 카카오톡 B.I 다운로드
 --------------------------
 
-### [Kakaotalk_BI.zip](http://www.kakao.com/link/images/v2/link/kakaotalk_icon.zip)
+### [Kakaotalk_BI.zip](http://www.kakao.com/images/v2/link/kakaotalk_icon.zip)
 
 *B.I는 카카오링크를 이용하여 카카오톡으로 메시지를 전송하는 기능을 안내하는 버튼/페이지에 한하여 사용하셔야 하며, 다른 페이지나 메뉴 등에서 위 이미지를 그대로 또는 일부 변형하여 사용자가 카카오 제작 앱으로 혼동하게 하시면 안됩니다. 
